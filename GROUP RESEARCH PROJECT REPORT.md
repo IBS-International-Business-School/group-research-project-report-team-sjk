@@ -4,7 +4,7 @@
 1. ... SAMUEL
 2. ... KOMAL 
 3. ... JITHENDAR
-4. ... 
+4. ...  DAVE
 
 ## Declaration
 [ChatGPT 5.0] was used to [brainstorm themes and structure] for this group research project report on [topic]. Prompt: '...' No AI-generated text is included in the final submission. Accessed: [Date]. Available at: https://chat.openai.com/.
