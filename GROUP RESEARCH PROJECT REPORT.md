@@ -2,8 +2,8 @@
 
 ## Team Members:
 1. SAM
-2. ...
-3. ... 
+2. KOMAL 
+3. JAY
 4. ... 
 
 ## Declaration
