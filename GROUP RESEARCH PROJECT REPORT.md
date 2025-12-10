@@ -39,4 +39,10 @@ The findings on environmental values and purchasing behaviors of Generation Z (G
 ... 
 
 ## References and Appendices
-... 
+
+Elgammal, I. G. M. a. A.-M. O., 2024. Sustainable Purchasing Behaviors in Generation Z: The Role of Social Identity and Behavioral Intentions in the Saudi Context.. Sustainability, 16(11), p.4478..
+Gomes, S. L. J. a. N. S., 2023. Willingness to pay more for green products: A critical challenge for Gen Z.. Journal of Cleaner Production, 390, p.136092..
+Mohammad, A. J. Z. a. S. A., 2025. Understanding The Impact of Green Marketing on Green Consumer Purchase Intention: A Systematic.. Asian Journal of Social Science and Management Technology.
+Nichols, B. a. H. J. 2., 2023. A comparison of sustainability attitudes and intentions across generations and gender: a perspective from US consumers.. Cuadernos de Gestión, 23(1), pp.51-62..
+Pinho, M. a. G. S., 2024. Environmental sustainability from a generational lens—A study comparing generation X, Y, and Z ecological commitment.. Business and Society Review, 129(3), pp.349-372..
+
