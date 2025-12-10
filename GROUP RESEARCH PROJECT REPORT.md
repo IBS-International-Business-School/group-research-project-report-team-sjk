@@ -247,3 +247,17 @@ df_numeric.dtypes
 df_numeric.to_excel("GenX_GenZ_data.xlsx", index=False)
 from google.colab import files
 files.download("GenX_GenZ_data.xlsx")
+
+## Github Evidences
+
+### Branching workflow
+ ![Branching](Images/Branches.png)
+
+### Pull request
+![Pull request](<Images/Pull request.png>)
+
+### Commit
+![Activity](Images/Activity.png)
+
+### Issue tracking
+![Issues](Images/Issues.png)
