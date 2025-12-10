@@ -11,6 +11,11 @@
 
 We have retained a complete set of raw data, including questionnaires (papers completed by hand or record downloaded from the online survey platform), recordings, and/or transcripts of interviews, secondary data, etc., as well as data analysis files and documents. 
 
+
+## Github Repository link
+The complete project repository including codes, documentation, images, and collaboration evidence is available at:
+https://github.com/IBS-International-Business-School/group-research-project-report-team-sjk 
+
 ---
 ## Executive Summary
 
@@ -109,3 +114,88 @@ Mohammad, A. J. Z. a. S. A., 2025. Understanding The Impact of Green Marketing o
 Nichols, B. a. H. J. 2., 2023. A comparison of sustainability attitudes and intentions across generations and gender: a perspective from US consumers.. Cuadernos de Gestión, 23(1), pp.51-62..
 Pinho, M. a. G. S., 2024. Environmental sustainability from a generational lens—A study comparing generation X, Y, and Z ecological commitment.. Business and Society Review, 129(3), pp.349-372..
 
+# Questionnaire:
+A Comparative Study of Gen Z and Gen X Attitudes Toward Sustainable Packaging
+
+Demographics  
+Demographics
+
+1. What is your gender? *
+
+Female
+Male
+Prefer not to say
+
+2. Which year are you born in? *
+
+3. Approximate monthly personal income in forints? *
+
+under 250,000
+250,000 – 400,000
+400,000 – 600,000
+600,000 and above
+
+4. Employment status? *
+
+Full-time employment
+Part-time employment
+Retired
+Unemployed
+
+Environmental Values
+
+Protecting the environment should be prioritized. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I consider it my personal responsibility to reduce waste. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+What factors influence your decision to buy eco-friendly products? *
+
+Companies hold the responsibility to minimize the environmental impact of their products. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I prefer to purchase products that are environmentally friendly, even if they come at a higher price. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I prefer products with eco-friendly packaging over conventional packaging. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I worry about how today’s packaging waste will affect future generations. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I actively seek information regarding the sustainability of the products I purchase. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I trust in a company's claims regarding the environmental benefits of its packaging. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+Brands often exaggerate the environmental benefits of their products. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I often find it challenging to determine which brands truly practice sustainability. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I would be willing to change my purchasing habits based on new information about a product's environmental impact. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+Imagine your usual bread costs 400 forints. If that same bread cost 460 forints, would you be willing to pay an additional 10% for eco-friendly packaging? *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I would pick a more expensive product with eco-friendly packaging instead of a cheaper one with regular packaging. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I think companies should use sustainable packaging, even if their products cost more. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I am cautious about trusting sustainability claims made by brands. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I worry that some companies pretend to be eco-friendly just to attract customers. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I think there should be stricter rules to stop companies from making false environmental claims. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+I get frustrated when brands use “green” words without proving their products are truly sustainable. *
+Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
