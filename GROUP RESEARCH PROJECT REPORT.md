@@ -199,3 +199,51 @@ Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
 
 I get frustrated when brands use “green” words without proving their products are truly sustainable. *
 Strongly Disagree / Disagree / Not sure / Agree / Strongly Agree
+
+## Python Code Snippets
+
+from IPython.core.interactiveshell import InteractiveShell
+InteractiveShell.ast_node_interactivity = "all"
+
+from google.colab import files
+uploaded = files.upload()
+
+import pandas as pd
+df = pd.read_excel('A Comparative Study of Gen Z and Gen X Attitudes Toward Sustainable Packaging  (Responses).xlsx')
+df.info()
+df.head()
+
+df.info()
+
+df.isnull().sum()
+
+df['What is your gender?'].value_counts()
+df['Which year are you born in?'].value_counts()
+df['Approximate monthly personal income in forints?'].value_counts()
+df['  Employment status?  '].value_counts()
+
+def gen_group(year):
+  try:
+    year = int(float(year))
+  except:
+    return 'other'
+  if 1997 <= year <= 2012:
+    return 'Gen Z (1997 - 2012)'
+  elif 1965 <= year <= 1980:
+    return 'Gen X (1965 - 1980)'
+  else:
+    return 'Gen Y (1981 - 1996)'
+df['Generation'] = df['Which year are you born in?'].apply (gen_group)
+df['Generation'].value_counts()
+
+df_gxz = df[df['Generation'].isin(['Gen X (1965 - 1980)', 'Gen Z (1997 - 2012)'])]
+df_gxz['Generation'].value_counts()
+
+likert_map = { 'Strongly Disagree': 1, 'Disagree' : 2, 'Not sure': 3, 'Agree': 4, 'Strongly Agree': 5}
+df_numeric = df_gxz.replace(likert_map)
+df_numeric.head()
+df_numeric.dtypes
+
+df_numeric.to_excel("GenX_GenZ_data.xlsx", index=False)
+from google.colab import files
+files.download("GenX_GenZ_data.xlsx")
