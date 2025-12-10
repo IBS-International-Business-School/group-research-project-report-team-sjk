@@ -26,8 +26,57 @@ We have in total collected 56 responses for this survey research. To analysis ou
 
 ---
 
-## Results
-... 
+### Results
+A survey was conducted with 56 people among three age groups: Gen-X, Gen-Y, and Gen-Z. The research question focuses only on Gen X and Gen Z so i have excluded the responses of Gen Y in the data analysis process. Overall, 11 responses were from Gen-X, 18 from Gen-Y and 27 from Gen-Z. The questionnaire was prepared on 4 core concepts: Environment values, Eco-friendly packaging preferences, willingness to pay, and trust in sustainability claims. Prepared overall and individual descriptive statistics summary, sample T-tests were conduscted on 18 questions to learn whether the generation difference existed. The result shows that both the generations behave differently in some scenarios and at some point their attitudes were similar.
+ 
+## Environmental Values:
+
+![Figure 1: ](<Images/Environmental Values Comparison (Gen Z vs Gen X).png>)
+
+This chart illustrates how strong both the generation values environmental sustainability. Gen-X steadily scores higher than Gen-Z in terms of environmental values. 
+
+Both the differences are statistically significant: 
+
+1. Environmental priority (p = 0.04)
+2. Personal responsibility (p = 0.04)
+
+The p-value is less than the alpha value (0.05), which means that there is only 4% probability that the differnces between both the generation happened by luck. This means that Gen-X plays crucial role when it comes to protecting the environment and feels personal responsibility towards sustainability products. 
+
+It proves that Gen-X has higher scores than Gen-Z, both the generations agree that the companies should take responsibility and reduce waste to protect environment. The statistical difference states that Gen-X shows strong environmental values and deeper personal commitment.
+
+## Eco-friendly products and packaging:
+
+![Figure 2:](<Images/Packaging Design Preference Means.png>)
+
+This charts depicts how both the generations prefer eco-friendly products and packaging indicating high mean scores. 
+The first bar chart (Left) states that Gen-X prefer eco-friendly products even if their prices are high with mean values 4.18 for Gen-x and 3.41 for Gen-z. Since the p value is 0.03 which is less than the alpha value, it means that Gen-X are more willing to pay for the eco-friendly products even at a higher price. 
+
+
+The second bar chart (Right) shows the levk of preference for eco-friendly packaging over conventional. There is no significant difference found in t-test over packaging and the preference for sustainability packaging stays high in both the groups.
+
+Gen-Z values sustainability and have personal commitment but are price sensitive.
+
+## Willingness to pay extra:
+
+![Figure 3:](<Images/Willingness to pay.png>)
+
+This figure states that both generations show moderate willingness to pay 10% extra on products for eco-packaging. The mean scores are quite similar so the difference is low but Gen-X reports slightly high. 
+
+The p-value is 0.74 which is higher than the 0.05 threshold, so no significant difference. Both the generations have similar attitude towards paying more for the packaging. This means that when a slight fee is charged both the generations shows more level of acceptance in paying extra for the packaging. 
+
+## Trust, Greenwashing & Scepticism:
+
+![Figure 4:](<Images/Trust, Greenwashing & Scepticism.png>)
+
+This bar chart compares the viewpoints of both  generations about the company's sustainability claims, and greenwashing. Gen-X shows high interest in scepticism because brands exxagerate environmental benefits and companies claim to be eco-friendly just to attract customers. This means that Gen-X is more of at risk in company's message about sustainability. On the contrary, 
+
+Gen-Z shows more trust in company's claims than Gen-x with means scores of 3.41 & 2.55 respectively. Both the generations have hypothetical impression while coming to trusting the company's claim about sustainability.
+
+Out of the 3 questions there is only one significant value with difference between generations. "companies pretend to be eco-friendly to attract customers" - P = 0.03, since the pvalue is less than alpha 0.05, the difference is statistically significant. 
+Gen Z is more likely than Gen X to believe company's false claims. Both generations have higher sceptism towards company pretending to be sustainable.  
+
+
+---
 
 ## Discussion
 The findings on environmental values and purchasing behaviors of Generation Z (Gen Z) and Generation X (Gen X) have given us a very vital perspective on how we need to market our sustainably packaged products. The questions related to environmental values and responsibilities showed significant intergenerational differences and, in this relationship, Gen X was leading as compared to Gen Z (Pinho, 2024). To sum up there is an overall increased acceptance of eco-friendly packaging across both generations, which shows that if EcoPack introduces sustainable design packages it will for sure be favorable. However, when it comes to willingness to pay for sustainably packaged products, we thought that gen z would be more willing to sustainability packaged goods based on the recent studies (Gomes, 2023).  However, through our survey answer we came to know that Gen X is significantly more willing to choose eco-friendly products even at a higher price as compared to Gen Z because the economy that we are living in where financial instability is on a rise, gen z’s are struggling to pay more for sustainability packages product
